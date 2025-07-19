@@ -35,13 +35,17 @@
 ## 📚 Currently Learning
 - **BYU Idaho Courses:**  
   Advanced Web Design • C# Programming • Software Architecture  
+  ![C#](https://img.shields.io/badge/Currently_Learning-C%23-239120?logo=c-sharp)
+ 
 - **Self-Study:**  
-  React Performance Optimization • .NET Fundamentals • Chakra UI  
+  React Performance Optimization • .NET Fundamentals • Chakra UI
+   ![.NET](https://img.shields.io/badge/Currently_Learning-.NET-512BD4?logo=.net)
 
 ---
 
-## 📈 GitHub Stats  
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=sanctagee&show_icons=true&theme=radical)
+## 📊 GitHub Stats
+[![GabbyTech's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sanctagee&show_icons=true&theme=radical&hide_title=true)](https://github.com/sanctagee)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sanctagee&layout=compact&theme=radical)](https://github.com/sanctagee)
 
 ---
 
