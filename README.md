@@ -6,8 +6,17 @@
 💡 **Philosophy Meets Code:** Applying logical reasoning from theology/philosophy to build clean, accessible web experiences.
 
 ---
+## 🛠️ Tech Stack 
 
-## 🛠️ Tech Stack
+<div align="center">
+  
+  ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22C3E6&width=435&lines=React+%7C+JavaScript+%7C+HTML5+CSS3;Django+%7C+Python+%7C+Git+%7C+Vercel;BYU+Idaho+Student+%7C+Web+Developer)
+
+  ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=for-the-badge)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
+</div>
+
+## 🛠️ Tech Journey
 **Frontend:**  
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
